@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QAupdate APIs "
+  message: "Welcome to EazyBank accounts related QAupdate using webhhok APIs "
   contactDetails:
     name: "Praveen singh - QA update"
     email: "{cipher}b8ed80dce2f35d43cc7ac153dac76167f99be1149564b6859c79b71ac352050d6aebfe6e6612e1373468f5b5b832a77a"
