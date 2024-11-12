@@ -5,7 +5,7 @@ build:
 spring:
   config:
     activate:
-      on-profile: "qaa"
+      on-profile: "qa"
 
 accounts:
   message: "Welcome to EazyBank accounts related QAupdate using webhhok  APIs "
